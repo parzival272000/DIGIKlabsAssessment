@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Kaidikhana",
+    "price": 299,
+    "imgUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?auto=format&fit=crop&w=500&q=60",
+    "addedOn": "2020-03-18",
+    "likes": 59
+  },
+  {
+    "id": 2,
+    "title": "Vijan Mahal",
+    "price": 799,
+    "imgUrl": "https://images.unsplash.com/photo-1521305916504-4a1121188589?auto=format&fit=crop&w=500&q=60",
+    "addedOn": "2020-03-18",
+    "likes": 99
+  },
+  {
+    "id": 3,
+    "title": "Symphony",
+    "price": 199,
+    "imgUrl": "https://images.unsplash.com/photo-1511690743698-d9d85f2fbf38?auto=format&fit=crop&w=500&q=60",
+    "addedOn": "2020-03-18",
+    "likes": 58
+  },
+  {
+    "id": 4,
+    "title": "Darbar",
+    "price": 399,
+    "imgUrl": "https://images.unsplash.com/photo-1506084868230-bb9d95c24759?auto=format&fit=crop&w=500&q=60",
+    "addedOn": "2020-03-18",
+    "likes": 70
+  },
+  {
+    "id": 5,
+    "title": "Food-Garage",
+    "price": 299,
+    "imgUrl": "https://images.unsplash.com/photo-1429554513019-6c61c19ffb7e?auto=format&fit=crop&w=500&q=60",
+    "addedOn": "2020-03-18",
+    "likes":45
+  },
+  {
+    "id": 6,
+    "title": "Mezban",
+    "price": 199,
+    "imgUrl": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?auto=format&fit=crop&w=500&q=60",
+    "addedOn": "2020-03-18",
+    "likes":60
+  }
+]

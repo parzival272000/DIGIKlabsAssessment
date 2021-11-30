@@ -1,0 +1,20 @@
+{
+  "app": {
+    "title": "Restuarant's List"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About"
+  },
+  "user_greeting": "Hello, Mayank",
+  "footer": "Built with Vue by Mayank Jha",
+  "card": {
+    "added": "Added",
+    "likes": "Nobody ❤️ this yet 😕 | {n} person ❤️ this | {n} people ❤️ this"
+  },
+  "about": {
+    "title": "About Us",
+    "para": "Restuarant's List"
+  }
+}
+
